@@ -1,11 +1,11 @@
 - profile:
-  initials: JD
-  name: John Doe
+  initials: ST
+  name: Steven Htun
   profession: Web Developer
   image: images/profile.jpg
-  location: New York, USA
+  location: Yangon, Myanmar
   relocation: true
-  company: Atomic Studio
+  company: Freelance Web Developer
   for_hire: true
   focus: Learning Gatsby
   focus_url: https://gatsbyjs.org
